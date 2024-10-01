@@ -1,0 +1,84 @@
+
+
+                                  CLASS TASK OF MONTH SEPTEMBER
+
+                                    DIFFERENCE BETWEEN MPA & SPA
+
+
+ 1)                        SPA                                                                                               MPA 
+                                                                                     
+   *  Best performance & faster loading time hota                     *  Slower loading time hota he MPA ka     
+       he SPA ka                                                                    
+   
+   *  SPA me SEO limited karsakte he                                        *  MPA me SEO easy and more effective 
+                                                                                                       and friendly karsakte he
+   
+   *  SPA full page reload karta he                                              *  MPA full page reload karta he    
+ 
+   *  SPA fast development time me hogate he                           *  MPA me development complex 
+                                                                                                        hogata he time bhi zada lagta he
+
+   *  SPA me security challenging nahi hote                               *  MPA me security challenging hoti he       
+
+
+
+ 2)   MAIN USAGE OF HOOKS
+
+  *  Hooks haame code ko reuse karne ke facilty provide karta he code ko modular or maintainable bana sakte he
+  
+  *  Hook haame functional Components me State or Side Effect ko manage karne ke facilty provide karta he
+
+  *  Hooks ke throw haam Components ko simple or easy to use bana sakte he       
+
+  *  Hooks ke two important function he UseState() or UseEffect()
+  
+  *  Hooks ke main use hone wale functions
+      
+      UseState()
+      UseEffect()
+      UseCallback()
+      UseContext()
+      UseReducer()
+      UseMemo()
+     
+
+
+                    DIFFERENCE BETWEEN  SIMPLE COMPONENTS  &  PARAMETRIC COMPONENTS  
+
+ 3)                SIMPLE COMPONENTS                                                  PARAMETRIC COMPONENTS                                                            
+                                                                                     
+   *  Simple Components dynamic behav                                  *  Parametric Components dynamic  behav    
+      nahi karte                                                                                 karte he 
+   
+   *  Simple Components limited reuse hote                             *  Parametric Components highly reuse hote 
+       he                                                                                            he 
+                                                                                                       
+   *  Simple Components me Rendring fixed                             *  Parametric Components me dynamic ui 
+       ui karsakte he                                                                         bhi karsakte he           
+ 
+   *  Simple Components me no fixed props                               *  Parametric Components me dynamic props
+      dynamic nahi karskte                                                                bhi karsakte he  
+                                                                                                        
+
+   *  Simple Compenets me low complexity                                *  Parametric Components me highly complexity  
+       hoti he                                                                                      hoti he
+
+
+  4)   USAGE Of JSX 
+   
+  *  JSX Html ke tags tarah work karta he is me html me attribute bhi use karsakte he 
+  
+  *  JSX code ko simpler banata he code ko debug karna assan hota he 
+
+  *  JSX me easy component ko identitfy karsakte he
+
+  *  JSX Team using ke lye beneficial hota he 
+ 
+  *  JSX  mixed javascript and Html  hote he jis ke waja se script ke sath html syntax support karte he
+
+
+   
+
+
+ 
+                                                                                    
